@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L6 Eric Magers", "L6 Eric Magers\L6 Eric Magers.vcxproj", "{60605A58-4351-4E08-9C19-5CC0F35130B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60605A58-4351-4E08-9C19-5CC0F35130B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60605A58-4351-4E08-9C19-5CC0F35130B6}.Debug|Win32.Build.0 = Debug|Win32
+		{60605A58-4351-4E08-9C19-5CC0F35130B6}.Release|Win32.ActiveCfg = Release|Win32
+		{60605A58-4351-4E08-9C19-5CC0F35130B6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
